@@ -1,0 +1,5 @@
+City_ID,City,Country,Date,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed
+0,Volyne,CZ,2020-11-16 23:31:52,49.17,13.89,45,90,78,1.01
+1,Volyne,CZ,2020-11-17 04:52:41,49.17,13.89,45,91,82,1.01
+2,Volyne,CZ,2020-11-17 04:53:06,49.17,13.89,45,91,82,1.01
+3,Kruisfontein,ZA,2020-11-17 04:56:11,-34.0,24.73,64,98,100,5.37
